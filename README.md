@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Data Science Portfolio
 
 You can use the [editor on GitHub](https://github.com/Jemimah2/jemimahk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
